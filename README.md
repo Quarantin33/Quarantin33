@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Quarantin33
+- 👋 Hi, I’m Josias Pazzelli
 - 👀 I’m interested in work for some company that use ReactJS or Java 
-- 🌱 I’m currently learning Web Development (React)
+- 🌱 I’m currently learning and working on Web Development (ReactJS)
 
 
 <!---
